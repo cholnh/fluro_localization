@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2020-01-20T05:32:02.374619",
+  "widgetMessage": "widget message",
+  "@widgetMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "Pomangam",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
